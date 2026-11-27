@@ -26,6 +26,9 @@
   "youtube_id": "2YTExCpJ-KU",
   "uploaded_at": "2026-11-27T05:55:21+05:30",
   "thumbnail_status": "accepted",
-  "instagram_status": "failed",
-  "instagram_error": "Zapier publish_video returned: Video is still processing. In Progress: Media is still being processed. (180) — not retried to avoid a duplicate; the Reel may still appear once Instagram finishes processing | Manual retry at user's request (Reel not on account) failed with the same error"
+  "instagram_status": "posted",
+  "instagram_id": "17915760636481569",
+  "instagram_posted_at": "2026-11-27T18:10:27+05:30",
+  "instagram_video_url": "https://raw.githubusercontent.com/thunder171003/bodyquest-uploads/main/videos/2026-11-27-feast-body-ig.mp4",
+  "instagram_note": "Zapier publish_video returned: Video is still processing. In Progress: Media is still being processed. (180) — not retried to avoid a duplicate; the Reel may still appear once Instagram finishes processing | Manual retry at user's request (Reel not on account) failed with the same error | Posted with a smaller 14 MB copy"
 }
