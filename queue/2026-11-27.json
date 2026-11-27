@@ -25,5 +25,7 @@
   "status": "uploaded",
   "youtube_id": "2YTExCpJ-KU",
   "uploaded_at": "2026-11-27T05:55:21+05:30",
-  "thumbnail_status": "accepted"
+  "thumbnail_status": "accepted",
+  "instagram_status": "failed",
+  "instagram_error": "Zapier publish_video returned: Video is still processing. In Progress: Media is still being processed. (180) — not retried to avoid a duplicate; the Reel may still appear once Instagram finishes processing"
 }
