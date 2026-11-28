@@ -27,5 +27,8 @@
   "youtube_id": "xGf-EDxRiCg",
   "uploaded_at": "2026-11-28T05:55:56+05:30",
   "glitch_check": "clean",
-  "thumbnail_status": "accepted"
+  "thumbnail_status": "accepted",
+  "instagram_status": "failed",
+  "instagram_error": "Zapier: Video is still processing. In Progress: Media is still being processed. (180) — not retried; Reel may still appear once Instagram finishes processing",
+  "instagram_video_url": "https://raw.githubusercontent.com/thunder171003/bodyquest-uploads/main/videos/2026-11-28-cold-no-jacket-ig.mp4"
 }
